@@ -48,6 +48,7 @@ https://www.youtube.com/embed/wSkWb9RWqng?si=3Y3rXQJJYmNEIXKN
  <li>
    Select Your usb pendrive in menu
  </li> 
+ 
  ![Screenshot from 2023-12-27 15-30-02](https://github.com/HariharNautiyal2/for-ashwin/assets/134691036/c4f49b89-c311-4af1-aa8c-94d88df3cab5)
  <li>
    Finally you entered os
